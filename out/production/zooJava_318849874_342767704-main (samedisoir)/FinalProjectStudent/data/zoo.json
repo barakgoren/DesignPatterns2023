@@ -1,0 +1,82 @@
+{
+  "zooName": "My Zoo",
+  "manager": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 45,
+    "gender": "Male",
+    "employeeID": "MGR123",
+    "department": "Zoo Management",
+    "salary": 60000.00
+  },
+  "enclosureMap": {
+    "Enclosure1": {
+      "name": "Enclosure 1",
+      "animals": [
+        {
+          "species": "Lion",
+          "ageMonths": 36,
+          "isHealthy": true,
+          "name": "Simba",
+          "habitat": "Grassland",
+          "type": "Mammal"
+        },
+        {
+          "species": "Giraffe",
+          "ageMonths": 48,
+          "isHealthy": true,
+          "name": "Gerry",
+          "habitat": "Savannah",
+          "type": "Mammal"
+        }
+      ]
+    },
+    "Enclosure2": {
+      "name": "Enclosure 2",
+      "animals": [
+        {
+          "species": "Tiger",
+          "ageMonths": 24,
+          "isHealthy": true,
+          "name": "Stripes",
+          "habitat": "Jungle",
+          "type": "Mammal"
+        }
+      ]
+    }
+  },
+  "employeeMap": {
+    "MGR123": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 45,
+      "gender": "Male",
+      "employeeID": "MGR123",
+      "department": "Zoo Management",
+      "salary": 60000.00
+    },
+    "VET789": {
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "age": 35,
+      "gender": "Female",
+      "employeeID": "VET789",
+      "department": "Veterinary Services",
+      "salary": 70000.00
+    }
+  },
+  "visitors": [
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "age": 30,
+      "gender": "Male"
+    }
+  ]
+}

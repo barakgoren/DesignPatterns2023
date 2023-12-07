@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "gender": "Male",
+    "ticketType": "Adult",
+    "membership": false
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 25,
+    "gender": "Female",
+    "ticketType": "Adult",
+    "membership": false
+  },
+  {
+    "id": 3,
+    "firstName": "David",
+    "lastName": "Johnson",
+    "age": 12,
+    "gender": "Male",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Williams",
+    "age": 8,
+    "gender": "Female",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 5,
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "age": 45,
+    "gender": "Male",
+    "ticketType": "Adult",
+    "membership": true
+  },
+  {
+    "id": 6,
+    "firstName": "Olivia",
+    "lastName": "Jones",
+    "age": 28,
+    "gender": "Female",
+    "ticketType": "Adult",
+    "membership": true
+  },
+  {
+    "id": 7,
+    "firstName": "Daniel",
+    "lastName": "Davis",
+    "age": 9,
+    "gender": "Male",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 8,
+    "firstName": "Sophia",
+    "lastName": "Miller",
+    "age": 7,
+    "gender": "Female",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 9,
+    "firstName": "William",
+    "lastName": "Wilson",
+    "age": 55,
+    "gender": "Male",
+    "ticketType": "Senior",
+    "membership": true
+  },
+  {
+    "id": 10,
+    "firstName": "Ava",
+    "lastName": "Anderson",
+    "age": 65,
+    "gender": "Female",
+    "ticketType": "Senior",
+    "membership": true
+  },
+  {
+    "id": 11,
+    "firstName": "Ethan",
+    "lastName": "Moore",
+    "age": 14,
+    "gender": "Male",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 12,
+    "firstName": "Emma",
+    "lastName": "Martin",
+    "age": 11,
+    "gender": "Female",
+    "ticketType": "Child",
+    "membership": false
+  },
+  {
+    "id": 13,
+    "firstName": "James",
+    "lastName": "Taylor",
+    "age": 42,
+    "gender": "Male",
+    "ticketType": "Adult",
+    "membership": true
+  },
+  {
+    "id": 14,
+    "firstName": "Mia",
+    "lastName": "White",
+    "age": 35,
+    "gender": "Female",
+    "ticketType": "Adult",
+    "membership": true
+  },
+  {
+    "id": 15,
+    "firstName": "Benjamin",
+    "lastName": "Wilson",
+    "age": 16,
+    "gender": "Male",
+    "ticketType": "Child",
+    "membership": false
+  }
+  // Continue adding more visitors...
+]

@@ -1,0 +1,10 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 40,
+  "gender": "Male",
+  "employeeID": "MGR123",
+  "department": "Zoo Management",
+  "departmentManaged": "Lions",
+  "salary": 60000.00
+}

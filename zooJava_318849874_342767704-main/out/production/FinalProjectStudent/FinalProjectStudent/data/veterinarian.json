@@ -1,0 +1,9 @@
+{
+  "firstName": "Emily",
+  "lastName": "Johnson",
+  "age": 35,
+  "gender": "Female",
+  "employeeID": "VET789",
+  "department": "Veterinary Services",
+  "salary": 70000.00
+}

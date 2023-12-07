@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Lion Enclosure",
+    "type": "Mammal",
+    "size": "Large",
+    "description": "Enclosure for lions with open grasslands and rocky terrain."
+  },
+  {
+    "id": 2,
+    "name": "Elephant Habitat",
+    "type": "Mammal",
+    "size": "Extra Large",
+    "description": "Spacious habitat for elephants with mud baths and water features."
+  },
+  {
+    "id": 3,
+    "name": "Giraffe Enclosure",
+    "type": "Mammal",
+    "size": "Large",
+    "description": "Enclosure with tall trees and feeding platforms for giraffes."
+  },
+  {
+    "id": 4,
+    "name": "Tiger Enclosure",
+    "type": "Mammal",
+    "size": "Medium",
+    "description": "Enclosure with dense jungle vegetation and rocky caves for tigers."
+  },
+  {
+    "id": 5,
+    "name": "Penguin Exhibit",
+    "type": "Bird",
+    "size": "Small",
+    "description": "Exhibit with a pool and icebergs for penguins."
+  },
+  {
+    "id": 6,
+    "name": "Monkey Habitat",
+    "type": "Mammal",
+    "size": "Medium",
+    "description": "Habitat with trees and ropes for monkeys to swing and play."
+  },
+  {
+    "id": 7,
+    "name": "Reptile House",
+    "type": "Reptile",
+    "size": "Small",
+    "description": "Building housing various reptiles, including snakes and lizards."
+  }
+]

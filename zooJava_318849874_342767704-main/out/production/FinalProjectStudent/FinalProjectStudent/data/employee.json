@@ -1,0 +1,137 @@
+[
+  {
+    "employeeID": "EMP001",
+    "department": "Zookeepers",
+    "salary": 50000.0,
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 35,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP002",
+    "department": "Zookeepers",
+    "salary": 48000.0,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "age": 28,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP003",
+    "department": "Zookeepers",
+    "salary": 52000.0,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "age": 40,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP004",
+    "department": "Zookeepers",
+    "salary": 46000.0,
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "age": 25,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP005",
+    "department": "Veterinarians",
+    "salary": 60000.0,
+    "firstName": "David",
+    "lastName": "Davis",
+    "age": 30,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP006",
+    "department": "Veterinarians",
+    "salary": 62000.0,
+    "firstName": "Olivia",
+    "lastName": "Jones",
+    "age": 32,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP007",
+    "department": "Administrative",
+    "salary": 55000.0,
+    "firstName": "Daniel",
+    "lastName": "Wilson",
+    "age": 24,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP008",
+    "department": "Administrative",
+    "salary": 54000.0,
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP009",
+    "department": "Security",
+    "salary": 58000.0,
+    "firstName": "William",
+    "lastName": "Martinez",
+    "age": 45,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP010",
+    "department": "Security",
+    "salary": 57000.0,
+    "firstName": "Ava",
+    "lastName": "Garcia",
+    "age": 38,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP011",
+    "department": "Cafeteria",
+    "salary": 49000.0,
+    "firstName": "Ethan",
+    "lastName": "Anderson",
+    "age": 28,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP012",
+    "department": "Cafeteria",
+    "salary": 48000.0,
+    "firstName": "Mia",
+    "lastName": "Moore",
+    "age": 26,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP013",
+    "department": "Maintenance",
+    "salary": 56000.0,
+    "firstName": "James",
+    "lastName": "Lee",
+    "age": 32,
+    "gender": "Male"
+  },
+  {
+    "employeeID": "EMP014",
+    "department": "Maintenance",
+    "salary": 55000.0,
+    "firstName": "Emma",
+    "lastName": "Clark",
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "employeeID": "EMP015",
+    "department": "Education",
+    "salary": 60000.0,
+    "firstName": "Benjamin",
+    "lastName": "Thomas",
+    "age": 37,
+    "gender": "Male"
+  }
+]

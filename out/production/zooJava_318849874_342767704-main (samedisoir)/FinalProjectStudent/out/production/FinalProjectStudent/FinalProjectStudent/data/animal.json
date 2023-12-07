@@ -1,0 +1,48 @@
+[
+  {
+    "species": "Lion",
+    "type": "Mammal",
+    "name": "Simba",
+    "habitat": "Grassland",
+    "ageMonths": 48,
+    "isHealthy": true,
+    "sound": "Roar"
+  },
+  {
+    "species": "Elephant",
+    "type": "Mammal",
+    "name": "Dumbo",
+    "habitat": "Savannah",
+    "ageMonths": 120,
+    "isHealthy": true,
+    "sound": "Trumpet"
+  },
+  {
+    "species": "Giraffe",
+    "type": "Mammal",
+    "name": "Gerry",
+    "habitat": "Savannah",
+    "ageMonths": 60,
+    "isHealthy": true,
+    "sound": "Bleat"
+  },
+  {
+    "species": "Tiger",
+    "type": "Mammal",
+    "name": "Rajah",
+    "habitat": "Jungle",
+    "ageMonths": 36,
+    "isHealthy": true,
+    "sound": "Roar"
+  },
+  {
+    "species": "Penguin",
+    "type": "Bird",
+    "name": "Waddle",
+    "habitat": "Antarctica",
+    "ageMonths": 18,
+    "isHealthy": true,
+    "sound": "Honk"
+  }
+
+]
